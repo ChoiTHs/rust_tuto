@@ -16,8 +16,9 @@ Rust를 학습하고 실습하며 만든 여러 프로젝트들을 정리하고 
 
 | 프로젝트명 | 설명 | 실행 방법 |
 |------------|---------------------------|--------------------------------|
-| [my_cli_tool](./my_cli_tool) | CLI에서 특정 단어가 포함된 파일/폴더 검색 | `cargo run -- "검색어"` |
-| [Todo_List_json](./Todo_List_json) | Todo List를 json형식으로 저장하는 방식식 | `cargo run -- add "Todo List 써보기"` |
+| [my_cli_tool](./my_cli_tool)| CLI에서 특정 단어가 포함된 파일/폴더 검색 | `cargo run -- "검색어"` |
+| [Todo_List_json](./Todo_List_json)| Todo List를 json형식으로 저장하는 방식 | `cargo run -- add "Todo List 만들기"` |
+| [Todo_List_SQLite](./todo_list_SQLite/)| Todo List를 SQLite를 사용해 저장하는 방식 | `cargo run -- add "Todo List 써보기"` |
 | (추가 예정) | Rust로 개발한 추가 프로젝트 | - |
 
 ---
